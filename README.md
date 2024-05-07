@@ -76,9 +76,8 @@ return 0;
 }
 ```
 ## OUTPUT
-
-![WhatsApp Image 2024-05-01 at 22 00 51_0f9fbca4](https://github.com/vikamuhan-reddy/Linux-File-IO-Systems-locking/assets/144928933/93b2a31a-a4d2-4358-a0a6-18bb4acc0e02)
-![WhatsApp Image 2024-05-01 at 22 04 59_3320fbbc](https://github.com/vikamuhan-reddy/Linux-File-IO-Systems-locking/assets/144928933/80bc18c6-8052-4f7e-90c4-f6d6916edf26)
+![image](./exp7os.jpg)
+![image](./exp7os1.jpg)
 
 
 # RESULT:
